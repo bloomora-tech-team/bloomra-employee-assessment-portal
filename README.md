@@ -1,4 +1,3 @@
-# bloomra-employee-assessment-portal
 # BLOOMRA Employee Assessment Portal
 
 A simple, responsive web-based employee examination management system developed for BLOOMRA.
